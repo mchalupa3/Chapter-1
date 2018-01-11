@@ -4,9 +4,9 @@
 <li> Learn about programming </li>
 <li> Learn about procedural and object-oriented programming </li>
 <li> Learn about the features of object-oriented programming languegs </li>
-<li> Learn about the C# pro
-
-
+<li> Learn about the C# programming language </li>
+<li> Write a C# program that produces output </li>
+<li> Learn how to select identifiers to use within your programs </li>
 
 </ul>
 
