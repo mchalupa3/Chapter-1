@@ -18,4 +18,4 @@ Debugging excercise<br>
 Excercises 1-9 pg 43<br>
 
 <h4>Vocabulary Assignment</h4>
-<a href="">Terms page 38</a>
+<a href="https://github.com/West-C-Sharp-Class/Chapter-1/blob/master/vocab%20chapter%201%20C%23.txt">Terms page 38</a>
