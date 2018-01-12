@@ -1,0 +1,26 @@
+Chapter 1 C# Vocab
+Program
+Software
+Machine Language
+Keywords
+Camel Casing
+Syntax
+Compiler
+Semantic Errors
+Bug
+Debugging
+Procedural Programming
+Variables
+Identifier
+Methods
+Calls
+Object Oriented Programming
+Object
+Interface
+Namespace
+WhiteSpace
+Application Class
+Line Comments
+Block Comments
+XML-Domument
+Integrated Development Environment (IDE)
