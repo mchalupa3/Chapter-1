@@ -17,3 +17,5 @@ You Do It Page 31<br>
 Debugging excercise<br>
 Excercises 1-9 pg 43<br>
 
+<h4>Vocabulary Assignment</h4>
+<a href="">Terms page 38</a>
