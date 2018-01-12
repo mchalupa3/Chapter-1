@@ -1,6 +1,7 @@
 # Chapter 1
 <hr>
 <h2>A First Program Using C# </h2>
+<h4>Objectives</h4>
 <ul> 
 <li> Learn about programming </li>
 <li> Learn about procedural and object-oriented programming </li>
